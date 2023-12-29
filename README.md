@@ -27,7 +27,6 @@ landing page e tentei deixa-lo mais atrativo adicionando animações, tais como:
 
 ## 🖼️ Layout
 
-https://betafontes.github.io/yoga-website/
 
 #### 🌙 Dark Mode :
 ![image](https://github.com/betafontes/yoga-website/assets/70981960/535305c3-9253-462d-8f42-8abe2bd4a7c9)
